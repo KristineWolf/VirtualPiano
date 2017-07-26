@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MidiSynthesizer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/MidiSynthesizer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ProcessingOO-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
